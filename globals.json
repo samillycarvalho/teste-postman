@@ -1,0 +1,27 @@
+{
+	"id": "764c8dd9-d6fc-4b91-8577-8ab629e54096",
+	"values": [
+		{
+			"key": "mensagemDepNumero",
+			"value": "O campo 'departamento' só pode conter letras e o caractere especial '&'.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "mensagemBoardNumero",
+			"value": "O campo 'diretoria' só pode conter letras e o caractere especial '&'.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgBoardCatactereEspecial",
+			"value": "O campo 'diretoria' só pode conter letras e o caractere especial '&'.",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-05-16T18:27:59.251Z",
+	"_postman_exported_using": "Postman/10.24.15"
+}

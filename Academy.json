@@ -1,0 +1,69 @@
+{
+	"id": "333d9ffb-a4e2-4f64-ab69-75e9e82d4b43",
+	"name": "Academy",
+	"values": [
+		{
+			"key": "Departamento",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "MAIUSCULA",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Departamento&",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "_mensagemDepNumero",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "_mensagemBoardNumero",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Diretoria&",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Diretoria",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "_msgBoardCatactereEspecial",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "https://the-originals.qacoders-academy.com.br",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-05-16T18:27:37.761Z",
+	"_postman_exported_using": "Postman/10.24.15"
+}
